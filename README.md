@@ -2,14 +2,14 @@
 
 Telas: <br>
 
-<img src="/img/Login.png" height="200px"/>
+<img src="/img/Login.png" height="300px"/>
 
 # :hammer: Funcionalidades do projeto
 
-- `Funcionalidade 1`: descrição da funcionalidade 1
-- `Funcionalidade 2`: descrição da funcionalidade 2
-- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
+- `Funcionalidade 1`: Cadastrar usuários;
+- `Funcionalidade 2`: Cadastrar produtos;
+- `Funcionalidade 3`: Apagar produto cadastrado;
+- `Funcionalidade 4`: Buscar produtos cadastrados;
 
 Desenvolvedores: <br>
 
