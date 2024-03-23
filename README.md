@@ -1,10 +1,8 @@
-#<h1 align="center"> MPV-WEB </h1>
 <h1 align="center"> Sistema de Gerenciamento de Supermercado - SISGEP </h1>
 
 Telas: <br>
 
-#![Login](img/Login.png)<br>
-<img src="/img/Login.png" height="400px"/>
+<img src="/img/Login.png" height="200px"/>
 
 Desenvolvedores: <br>
 Nome / matrícula: DIOGO GABRIEL ROSA SANTOS / 2022011185 <br>
