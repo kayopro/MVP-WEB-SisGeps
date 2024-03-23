@@ -1,4 +1,4 @@
-<h1 align="center"> Sistema de Gerenciamento de Supermercado - SISGEP </h1>
+<h1 align="center"> Sistema de Gerenciamento de Estoque Supermercado para Supermercado - SISGEPS </h1>
 
 Telas: <br>
 
