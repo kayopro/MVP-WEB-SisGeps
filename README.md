@@ -2,7 +2,7 @@
 
 <h2>Páginas:</h2><br>
 
-<img src="app/src/img/Login.png" height="300px"/>
+<img src="App/src/img/Login.png" height="300px"/>
 
 <h2> <p>&#128204 Funcionalidades do projeto:</p> </h2> <br>
 
