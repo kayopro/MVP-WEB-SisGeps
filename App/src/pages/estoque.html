@@ -1,11 +1,76 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Estoque / MVP_WEB</title>
+    <link rel="stylesheet" href="../css/estoque.css">
+    <script src="../js/estoque.js" defer></script>
+    <title>SisGeps - Estoque</title>
 </head>
 <body>
-    
+    <header id="headerBody">
+        <div><img class="logo" src="../img/SisGeps_img.png" alt="LogoSisgeps"></div>
+    </header>
+    <main>
+        <button type="button" class="button blue" id="cadastrarProduto">Cadastrar Produto</button>
+        <table id="tbProduto" class="records">
+            <thead>
+                <tr>
+                    <th>Código</th>
+                    <th>Nome do Produto</th>
+                    <th>Categoria</th>
+                    <th>Fabricante</th>
+                    <th>Quantidade</th>
+                    <th>Valor por Unidade</th>
+                    <th>Ações</th>
+                </tr>
+            </thead>
+            <tbody>
+
+            </tbody>
+        </table>
+        <div class="modal" id="modal">
+            <div class="modal-content">
+                <header class="modal-header">
+                    <h2>Novo Produto</h2>
+                    <span class="modal-close" id="modalClose">&#10006;</span>
+                </header>
+                <form id="form" class="modal-form">
+                    <div class="input-row">
+                        <div class="input-group">
+                            <label for="codigo"><b>Código:</b></label>
+                            <input type="text" id="codigo" class="modal-field" required>
+                        </div>
+                        <div class="input-group">
+                            <label for="nome"><b>Nome:</b></label>
+                            <input type="text" id="nome" class="modal-field" required>
+                        </div>
+                        <div class="input-group">
+                            <label for="categoria"><b>Categoria:</b></label>
+                            <input type="text" id="categoria" class="modal-field" required>
+                        </div>
+                    </div>
+                    <div class="input-row">
+                        <div class="input-group">
+                            <label for="fabricante"><b>Fabricante:</b></label>
+                            <input type="text" id="fabricante" class="modal-field" required>
+                        </div>
+                        <div class="input-group">
+                            <label for="quantidade"><b>Quantidade:</b></label>
+                            <input type="text" id="quantidade" class="modal-field" required>
+                        </div>
+                        <div class="input-group">
+                            <label for="valor"><b>Valor por Unidade:</b></label>
+                            <input type="text" id="valor" class="modal-field" required>
+                        </div>
+                    </div>
+                </form>                
+                <footer class="modal-footer">
+                    <button id="salvar" class="button green">Salvar</button>
+                    <button class="button blue" id="cancelar">Cancelar</button>
+                </footer>
+            </div>
+        </div>
+    </main>
 </body>
 </html>
