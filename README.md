@@ -25,9 +25,8 @@ A seguir apresentaremos as telas do SisGeps:
         <li>Esta tela tem a função de Cadastrar, Editar e Excluir produtos. </li>        
       </ul>
     </section>    
-<img src="App/src/img/tela_lista_de_produtos.png" height="300px"/>
+<img src="App/src/img/tela_lista_de_produtos.png" height="300px"/><br>
 
-<br>
 <h2> <p>&#128204 Funcionalidades do projeto:</p> </h2>
 
 - `Funcionalidade 1`: Cadastrar usuários;
@@ -37,8 +36,7 @@ A seguir apresentaremos as telas do SisGeps:
 - `Funcionalidade 5`: Excluir produtos;
 
 <br>
-<h2> <p>&#128187 Desenvolvedores:</p> </h2> <br>
-
+<h2> <p>&#128187 Desenvolvedores:</p> </h2> 
 Nome / matrícula: DIOGO GABRIEL ROSA SANTOS / 2022011185 <br>
 Nome / matrícula: JOSÉ KAYO BEZERRA DA SILVA / 2022012638 <br>
 Nome / matrícula: MATHEUS FAUSE JÁCOME DE LINO / 2022011775  
