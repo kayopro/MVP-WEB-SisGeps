@@ -1,4 +1,8 @@
-<h1 align="center"> Sistema de Gerenciamento de Estoque para Supermercado - SisGeps </h1>
+<p align="center">
+    <img src="App/src/img/SisGeps_img.png" height="100px" alt="Descrição da Imagem">
+</p>
+
+<h1 align="center"> Sistema de Gerenciamento de Estoque para Supermercado</h1>
 
 <h2>Descrição</h2>
 <p>Este é um MVP web em sua versão inicial, ele apresenta funcionalidades essenciais para atender às necessidades básicas dos usuários com o objetivo de automatizar e organizar os processos relacionados ao controle de estoque, compra e venda de produtos em um supermercado de bairro.</p>
