@@ -15,17 +15,28 @@ A seguir apresentaremos as telas do SisGeps:
       <ul>
         <li>Esta tela tem o objetivo de efetuar o cadastro do usuário e possibilitar o acesso ao sistema.</li>        
       </ul>
-    </section>
-    
+    </section>    
 <img src="App/src/img/Login.png" height="300px"/>
 
-<h2> <p>&#128204 Funcionalidades do projeto:</p> </h2> <br>
+<br>
+<h3>Tela da Lista de Produtos</h3>
+<section>
+      <ul>
+        <li>Esta tela tem a função de Cadastrar, Editar e Excluir produtos. </li>        
+      </ul>
+    </section>    
+<img src="App/src/img/tela_lista_de_produtos.png" height="300px"/>
+
+<br>
+<h2> <p>&#128204 Funcionalidades do projeto:</p> </h2>
 
 - `Funcionalidade 1`: Cadastrar usuários;
-- `Funcionalidade 2`: Cadastrar produtos;
-- `Funcionalidade 3`: Apagar produto cadastrado;
-- `Funcionalidade 4`: Buscar produtos cadastrados; <br>
+- `Funcionalidade 2`: Efetuar Login;
+- `Funcionalidade 3`: Cadastrar produtos;
+- `Funcionalidade 4`: Editar produtos cadastrados;
+- `Funcionalidade 5`: Excluir produtos;
 
+<br>
 <h2> <p>&#128187 Desenvolvedores:</p> </h2> <br>
 
 Nome / matrícula: DIOGO GABRIEL ROSA SANTOS / 2022011185 <br>
