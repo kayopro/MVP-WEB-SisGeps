@@ -1,14 +1,15 @@
 <h1 align="center"> Sistema de Gerenciamento de Estoque para Supermercado - SisGeps </h1>
 
 <h2>Descrição</h2>
-Este é um MVP web em sua versão inicial, ele apresenta funcionalidades essenciais para atender às necessidades básicas dos usuários com o objetivo de automatizar e organizar os processos relacionados ao controle de estoque, compra e venda de produtos em um supermercado de bairro.
-O presente Sistema de Gerenciamento de Estoque de Produtos de um Supermercado de Bairro foi idealizado como sendo uma solução para organizar, automatizar e aprimorar os processos relacionados ao controle de estoque, compra e venda de produtos em pequenos supermercados de bairro.
+<p>Este é um MVP web em sua versão inicial, ele apresenta funcionalidades essenciais para atender às necessidades básicas dos usuários com o objetivo de automatizar e organizar os processos relacionados ao controle de estoque, compra e venda de produtos em um supermercado de bairro.</p>
 
-Nessa perspectiva, esta documentação será um facilitador para a construção, desenvolvimento e manutenção do sistema. Além disso, esse artefato nos fornece uma comunicação eficaz entre os membros da equipe e demais partes interessadas no projeto.
+<p> O presente Sistema de Gerenciamento de Estoque de Produtos de um Supermercado de Bairro foi idealizado como sendo uma solução para organizar, automatizar e aprimorar os processos relacionados ao controle de estoque, compra e venda de produtos em pequenos supermercados de bairro. </p>
+
+<p> Nessa perspectiva, esta documentação será um facilitador para a construção, desenvolvimento e manutenção do sistema. Além disso, esse artefato nos fornece uma comunicação eficaz entre os membros da equipe e demais partes interessadas no projeto. </p> <br>
 
 
-<h2>Páginas:</h2><br>
-
+<h2>Páginas</h2>
+A seguir apresentaremos as telas do SisGeps:
 <h3>Tela de Login</h3>
 <section>
       <ul>
