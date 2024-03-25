@@ -27,8 +27,15 @@ A seguir apresentaremos as telas do SisGeps:
     </section>    
 <img src="App/src/img/tela_lista_de_produtos.png" height="300px"/><br>
 
-<h2> <p>&#128204 Funcionalidades do projeto:</p> </h2>
+<h3>Tela de Cadastro de Produtos</h3>
+<section>
+      <ul>
+        <li>Esta tela tem a função de Cadastrar um novo produto no sistema</li>        
+      </ul>
+    </section>    
+<img src="App/src/img/cadastro_produtos.png" height="300px"/><br>
 
+<h2> <p>&#128204 Funcionalidades do projeto:</p> </h2>
 - `Funcionalidade 1`: Cadastrar usuários;
 - `Funcionalidade 2`: Efetuar Login;
 - `Funcionalidade 3`: Cadastrar produtos;
