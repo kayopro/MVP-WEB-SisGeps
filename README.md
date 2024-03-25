@@ -80,6 +80,24 @@ A seguir apresentaremos as telas do SisGeps:
 - `Funcionalidade 5`: Excluir produtos;
 
 <br>
+<h2>Uso</h2>
+
+<br>
+<h2>Requisitos</h2>
+
+
+<br>
+<h2>Tecnologias Utilizadas</h2>
+
+<br>
+<h2>Contribuições</h2>
+Contribuições são bem-vindas!
+
+<br>
+<h2>Considerações Finais</h2>
+
+<p>Por meio do desenvolvimento desse trabalho, conseguimos adquirir valiosas experiências que serão de grande auxílio em projetos futuros. O Desenvolvimento deste MVP Web não apenas resultou em uma solução robusta e intuitiva para o Sistema de Gerenciamento de Estoque para Supermercado (SisGeps), mas também enriqueceu nosso conhecimento, contribuindo para um aprimoramento contínuo em futuras empreitadas.</p>
+
 
 
 
