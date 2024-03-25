@@ -9,6 +9,13 @@ Nessa perspectiva, esta documentação será um facilitador para a construção,
 
 <h2>Páginas:</h2><br>
 
+<h3>Tela de Login</h3>
+<section>
+      <ul>
+        <li>Esta tela tem o objetivo de efetuar o cadastro do usuário e possibilitar o acesso ao sistema.</li>        
+      </ul>
+    </section>
+    
 <img src="App/src/img/Login.png" height="300px"/>
 
 <h2> <p>&#128204 Funcionalidades do projeto:</p> </h2> <br>
