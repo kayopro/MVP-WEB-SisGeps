@@ -36,6 +36,7 @@ A seguir apresentaremos as telas do SisGeps:
 <img src="App/src/img/cadastro_produtos.png" height="300px"/><br>
 
 <h2> <p>&#128204 Funcionalidades do projeto:</p> </h2>
+
 - `Funcionalidade 1`: Cadastrar usuários;
 - `Funcionalidade 2`: Efetuar Login;
 - `Funcionalidade 3`: Cadastrar produtos;
