@@ -4,6 +4,37 @@
 
 <h1 align="center"> Sistema de Gerenciamento de Estoque para Supermercado</h1>
 
+<h2> <p>&#128187 Equipe de Desenvolvimento:</p> </h2> 
+
+<table>
+    <tr>
+        <td>
+            <div class="membro">
+                <img src="App/src/img/diogo.jpg" alt="Diogo" height="100px">
+                <p>DIOGO GABRIEL / 2022011185</p>                
+                <a href="https://www.linkedin.com/in/diogogabriel-developer/" target="_blank">LinkedIn</a>
+                <a href="https://github.com/DiogoG-dev" target="_blank">GitHub</a>
+            </div>
+        </td>
+        <td>
+            <div class="membro">
+                <img src="App/src/img/kayo.png" alt="Kayo" height="100px">
+                <p>JOSÉ KAYO / 2022012638</p>
+                <a href="https://www.linkedin.com/in/kayosilva/" target="_blank">LinkedIn</a>
+                <a href="https://github.com/kayopro" target="_blank">GitHub</a>
+            </div>
+        </td>
+        <td>
+            <div class="membro">
+                <img src="App/src/img/matheus.jpg" alt="Matheus" height="100px">
+                <p>MATHEUS FAUSE / 2022011775</p>
+                <a href="https://www.linkedin.com/in/matheus-jacome-lino/" target="_blank">LinkedIn</a>
+                <a href="https://github.com/mfjacome" target="_blank">GitHub</a>
+            </div>
+        </td>
+    </tr>
+</table>
+
 <h2>Descrição</h2>
 <p>Este é um MVP web em sua versão inicial, ele apresenta funcionalidades essenciais para atender às necessidades básicas dos usuários com o objetivo de automatizar e organizar os processos relacionados ao controle de estoque, compra e venda de produtos em um supermercado de bairro.</p>
 
@@ -48,7 +79,6 @@ A seguir apresentaremos as telas do SisGeps:
 - `Funcionalidade 5`: Excluir produtos;
 
 <br>
-<h2> <p>&#128187 Desenvolvedores:</p> </h2> 
-Nome / matrícula: DIOGO GABRIEL ROSA SANTOS / 2022011185 <br>
-Nome / matrícula: JOSÉ KAYO BEZERRA DA SILVA / 2022012638 <br>
-Nome / matrícula: MATHEUS FAUSE JÁCOME DE LINO / 2022011775  
+
+
+
