@@ -85,13 +85,15 @@ A seguir apresentaremos as telas do SisGeps:
 <br>
 <h2>Requisitos</h2>
 
-
 <br>
 <h2>Tecnologias Utilizadas</h2>
-
+ - HTML
+ - CSS
+ - JavaScript
 <br>
+
 <h2>Contribuições</h2>
-Contribuições são bem-vindas!
+Contribuições são bem-vindas! 
 
 <br>
 <h2>Considerações Finais</h2>
