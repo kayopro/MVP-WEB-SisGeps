@@ -4,7 +4,7 @@
 
 <h1 align="center"> Sistema de Gerenciamento de Estoque para Supermercado</h1>
 
-<h2> <p>&#128187 Equipe de Desenvolvimento:</p> </h2> 
+<h2> <p>&#128187 Equipe de Desenvolvimento</p> </h2> 
 
 <table>
     <tr>
@@ -45,7 +45,7 @@
 
 
 <h2>Páginas</h2>
-A seguir apresentaremos as telas do SisGeps:
+A seguir apresentaremos as telas do SisGeps
 <h3>Tela de Login</h3>
 <section>
       <ul>
@@ -71,7 +71,7 @@ A seguir apresentaremos as telas do SisGeps:
     </section>    
 <img src="App/src/img/cadastro_produtos.png" height="265px"/><br>
 
-<h2> <p>&#128204 Funcionalidades do projeto:</p> </h2>
+<h2> <p>&#128204 Funcionalidades do projeto</p> </h2>
 
 - `Funcionalidade 1`: Cadastrar usuários;
 - `Funcionalidade 2`: Efetuar Login;
