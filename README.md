@@ -80,20 +80,61 @@ A seguir apresentaremos as telas do SisGeps:
 - `Funcionalidade 5`: Excluir produtos;
 
 <br>
-<h2>Uso</h2>
+<h2>Estrutura do projeto</h2>
 
-<br>
-<h2>Requisitos</h2>
+- `App/src`: Encontra-se todas as ramificações do projeto.
+    - `./css`: Os padrões de espaçamento, tipo e tamanho da fonte, botões, em resumo a parte de design da página encontra-se aqui.
+        - `./estoque.css`: Responsável por dar vida a tela de cadastro, ediçao e deleção dos produtos.
+        - `./login.css`: Responsável por dar vida a tela de cadastro e login do usuário.
+    - `./img`: Local onde estão armazenada todas as imagens que compõem o projeto.
+    - `./js`: Diretório responsável por armazenar a parte lógica do sistema, ou seja, os scripts.
+        - `./estoque.js`: Contém a lógica: `INICIALIZAÇÃO`, `CRIAÇÃO E CONEXÃO COM O LOCAL STORAGE` e `CRUD - CREATE READ UPDATE DELETE`.
+        - `./login.js`: Contém a lógica: `CADASTRAR USUARIO`, `VERIFICAÇÃO DO NOME`, `VERIFICAÇÃO DE SENHAS`, `OBTEM OS DADOS DO LOCAL STORAGE E VERIFICA A EXISTENCIA DO EMAIL` e `VALIDAR USUARIO E REDIRECIONAR`.
+    - `./pages`: Pages contém a estrutura principal da aplicação web.
+        - `./estoque.html`: Contém os aspectos estruturais da página de estoque que se relaciona com outros diretórios por meio de:
+            ```shell
+            <link rel="stylesheet" href="../css/estoque.css">
+            <script src="../js/estoque.js" defer></script>
+            ``` 
+        - `./login.html`:Contém os aspectos estruturais da página de login que se relaciona com outros diretórios por meio de:
+            ```shell
+            <link rel="stylesheet" href="../css/login.css">
+            <script src="../js/login.js"></script>
+            ``` 
 
 <br>
 <h2>Tecnologias Utilizadas</h2>
- - HTML
- - CSS
- - JavaScript
+
+- `HTML`
+- `CSS`
+- `JavaScript`
+
+<br>
+<h2>Contribuições</h2>
+Contribuições são bem-vindas!
+
 <br>
 
-<h2>Contribuições</h2>
-Contribuições são bem-vindas! 
+1. Clone o repositório para o seu computador:
+```shell
+git clone https://github.com/UFCA-ADS/MPV-WEB.git
+```
+2. Crie uma branch:
+```shell
+git checkout -b feature/seu_nome
+```
+3. Commit após implementar sugestões:
+```shell
+git add nome_arquivo(s)
+git status - Verifica quais arquivos estão para ser adicionados;
+git commit -m "Descreva de forma objetiva a alteração" - Insere comentário na adição que irá para o repositório remoto;
+git push origin nome_branch (feature/seu_nome)
+```
+
+Método: Acesse a interface do Github abra um Pull requests da branch que criou para branch main no qual será avaliado antes de ser mergeado.
+- `Pull requests`
+- `Review`
+- `Merge`
 
 <br>
 <h2>Considerações Finais</h2>
